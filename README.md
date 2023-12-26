@@ -10,3 +10,4 @@
 
 ### TODO
 - implement a Jekyll blog here...
+- also add a JSON Resume / TBD

@@ -1,6 +1,6 @@
 # orbanbalage.github.io
-🤖 By 2030, #GPT7 may have as many synapses as a human brain (~120 trillion) - [src](https://twitter.com/hodlipson/status/1608887008436555777?lang=en).
-📝 Blogging until the singularity reverse-engineers my brain...
+- 🤖 By 2030, #GPT7 may have as many synapses as a human brain (~120 trillion) - [src](https://twitter.com/hodlipson/status/1608887008436555777?lang=en).
+- 📝 Blogging until the singularity reverse-engineers my brain...
 
 ## 42Prague Piscine Blog:
 - [2D/3D array initialization](https://piscine42prague.wordpress.com/2023/12/19/2d-3d-array-initialization/)

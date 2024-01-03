@@ -3,6 +3,7 @@
 - 📝 Blogging until the singularity reverse-engineers my brain...
 
 ## 42Prague Piscine Blog:
+- [Array Decay + You can now talk directly to ChatGPT3.5 on Android!](https://piscine42prague.wordpress.com/2024/01/03/array-decay-you-can-now-talk-directly-to-chatgpt3-5-on-android/)
 - [Summary post on argc/argv & array decay:](https://piscine42prague.wordpress.com/2023/12/29/summary-post-on-argc-argv-more-on-decay/)
 - [Export your Piscine Slack channels to HTML!](https://piscine42prague.wordpress.com/2023/12/28/export-your-piscine-slack-channels-to-html/)
 - [String literals continued: C vs. C++](https://piscine42prague.wordpress.com/2023/12/27/string-literals-continued-c-vs-c/)

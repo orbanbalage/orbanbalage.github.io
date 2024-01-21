@@ -2,6 +2,9 @@
 - 🤖 By 2030, #GPT7 may have as many synapses as a human brain (~120 trillion) - [src](https://twitter.com/hodlipson/status/1608887008436555777?lang=en).
 - 📝 Blogging until the singularity reverse-engineers my brain...
 
+## 42Prague Core / Learning C in 2024 Blog:
+- [Enter 2024 – more research on C!](https://cprogramming2024.wordpress.com/2024/01/04/enter-2024-more-research-on-c/)
+
 ## 42Prague Piscine Blog:
 - [Array Decay + You can now talk directly to ChatGPT3.5 on Android!](https://piscine42prague.wordpress.com/2024/01/03/array-decay-you-can-now-talk-directly-to-chatgpt3-5-on-android/)
 - [Summary post on argc/argv & array decay:](https://piscine42prague.wordpress.com/2023/12/29/summary-post-on-argc-argv-more-on-decay/)

@@ -19,5 +19,5 @@
 - [Advent of Code 2023 – Day 1 – regex or not to regex?](https://piscine42prague.wordpress.com/2023/12/03/advent-of-code-2023-day-1-regex-or-not-to-regex/)
 
 ### TODO
-- implement a Jekyll blog here...
-- also add a JSON Resume / TBD
+- implement (or transform the Wordpress blogs into) a Jekyll blog here...
+- [my JSON resume [WIP]](https://registry.jsonresume.org/orbanbalage)

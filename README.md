@@ -3,6 +3,8 @@
 - 📝 Blogging until the singularity reverse-engineers my brain...
 
 ## 42Prague Core / Learning C in 2024 Blog:
+- [String Equivalence – C vs. JavaScript [2/2] – The Facts](https://cprogramming2024.wordpress.com/2024/01/26/a-a-this-is-false-what-is-this-insanity/)
+- [String Equivalence – C vs. JavaScript [1/2] – The Philosophy](https://cprogramming2024.wordpress.com/2024/01/23/string-equivalence-c-vs-javascript-1-2-the-philosophy/)
 - [Enter 2024 – more research on C!](https://cprogramming2024.wordpress.com/2024/01/04/enter-2024-more-research-on-c/)
 
 ## 42Prague Piscine Blog:

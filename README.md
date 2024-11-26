@@ -3,6 +3,7 @@
 - 📝 Blogging until the singularity reverse-engineers my brain...
 
 ## 42Prague Core / Learning C in 2024 Blog:
+- [Summary post on the C FILE type](https://cprogramming2024.wordpress.com/2024/11/26/summary-post-on-the-c-file-type/)
 - [C’s Biggest Mistake?](https://cprogramming2024.wordpress.com/2024/01/29/cs-biggest-mistake/)
 - [String Equivalence – C vs. JavaScript [2/2] – The Facts](https://cprogramming2024.wordpress.com/2024/01/26/a-a-this-is-false-what-is-this-insanity/)
 - [String Equivalence – C vs. JavaScript [1/2] – The Philosophy](https://cprogramming2024.wordpress.com/2024/01/23/string-equivalence-c-vs-javascript-1-2-the-philosophy/)

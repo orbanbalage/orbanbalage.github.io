@@ -1,6 +1,9 @@
 # orbanbalage.github.io
-- 🤖 By 2030, #GPT7 may have as many synapses as a human brain (~120 trillion) - [src](https://twitter.com/hodlipson/status/1608887008436555777?lang=en).
-- 📝 Blogging until the singularity reverse-engineers my brain...
+_Blogging until we reach the Singularity_
+
+## Future Prediction List
+- 🤖 by 2030, [#GPT7](https://x.com/search?q=%23GPT7&f=live) may have as many synapses as a human brain (~120 trillion) - [src](https://twitter.com/hodlipson/status/1608887008436555777?lang=en)
+- 🦾 2045, The Singularity (according to Ray Kurtzweil) - [src](https://en.wikipedia.org/wiki/The_Singularity_Is_Near), also re-iterated more recently - [src](https://en.wikipedia.org/wiki/The_Singularity_Is_Nearer)
 
 ## 42Prague Core / Learning C in 2024 Blog:
 - [Summary post on the C FILE type](https://cprogramming2024.wordpress.com/2024/11/26/summary-post-on-the-c-file-type/)
@@ -20,6 +23,12 @@
 - [“Norminette / Moulinette is wrong!!!”](https://piscine42prague.wordpress.com/2023/12/03/norminette-moulinette-is-wrong/)
 - [Advent of Code 2023 – Day 1 – regex or not to regex?](https://piscine42prague.wordpress.com/2023/12/03/advent-of-code-2023-day-1-regex-or-not-to-regex/)
 
-### TODO
-- implement (or transform the Wordpress blogs into) a Jekyll blog here...
-- [my JSON resume [WIP]](https://registry.jsonresume.org/orbanbalage)
+## CV & Coding Challenges
+- Past Achievements:
+  - [JSON Résumé](https://registry.jsonresume.org/orbanbalage)
+
+- Currently Learning:
+  - [codecademy](https://www.codecademy.com/profiles/orbanbalage)
+  - [Code Golf](https://code.golf/golfers/orbanbalage)
+  - [LeetCode](https://leetcode.com/u/orbanbalage/)
+  - [Codewars](https://www.codewars.com/users/orbanbalage/badges)

@@ -27,8 +27,11 @@ _Blogging until we reach the Singularity_
 - Past Achievements:
   - [JSON Résumé](https://registry.jsonresume.org/orbanbalage)
 
-- Currently Learning:
+- Currently Learning (mostly Python):
   - [codecademy](https://www.codecademy.com/profiles/orbanbalage)
-  - [Code Golf](https://code.golf/golfers/orbanbalage)
+  - [execute program](https://www.executeprogram.com/)
+ 
+- On hiatus:
+  - [Exercism](https://exercism.org/profiles/orbanbalage)
   - [LeetCode](https://leetcode.com/u/orbanbalage/)
   - [Codewars](https://www.codewars.com/users/orbanbalage/badges)

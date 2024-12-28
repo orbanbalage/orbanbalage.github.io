@@ -1,4 +1,3 @@
-# orbanbalage.github.io
 _Blogging until we reach the Singularity_
 
 ## Future Prediction List
@@ -24,10 +23,11 @@ _Blogging until we reach the Singularity_
 - [Advent of Code 2023 – Day 1 – regex or not to regex?](https://piscine42prague.wordpress.com/2023/12/03/advent-of-code-2023-day-1-regex-or-not-to-regex/)
 
 ## CV & Coding Challenges
-- Past Achievements:
+- Past Achievements / Employment History:
+  - [LinkedIn](https://www.linkedin.com/in/orbanbalage)
   - [JSON Résumé](https://registry.jsonresume.org/orbanbalage)
 
-- Currently Learning (mostly Python):
+- Currently Learning:
   - [codecademy](https://www.codecademy.com/profiles/orbanbalage)
   - [execute program](https://www.executeprogram.com/)
  

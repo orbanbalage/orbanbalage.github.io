@@ -35,3 +35,4 @@ _Blogging until we reach the Singularity_
   - [Exercism](https://exercism.org/profiles/orbanbalage)
   - [LeetCode](https://leetcode.com/u/orbanbalage/)
   - [Codewars](https://www.codewars.com/users/orbanbalage/badges)
+  - [HackerRank](https://www.hackerrank.com/profile/orbanbalage)

@@ -34,5 +34,5 @@ _Blogging until we reach the Singularity_
 - On hiatus:
   - [Exercism](https://exercism.org/profiles/orbanbalage)
   - [LeetCode](https://leetcode.com/u/orbanbalage/)
-  - [Codewars](https://www.codewars.com/users/orbanbalage/badges)
+  - [Codewars](https://www.codewars.com/users/orbanbalage)
   - [HackerRank](https://www.hackerrank.com/profile/orbanbalage)

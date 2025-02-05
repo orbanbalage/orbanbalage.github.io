@@ -36,3 +36,4 @@ _Blogging until we reach the Singularity_
   - [LeetCode](https://leetcode.com/u/orbanbalage/)
   - [Codewars](https://www.codewars.com/users/orbanbalage)
   - [HackerRank](https://www.hackerrank.com/profile/orbanbalage)
+  - [roadmap.sh](https://roadmap.sh/u/orbanbalage)

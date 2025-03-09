@@ -5,6 +5,7 @@ _Blogging until we reach the Singularity_
 - 🦾 2045, The Singularity (according to Ray Kurtzweil) - [src](https://en.wikipedia.org/wiki/The_Singularity_Is_Near), also re-iterated more recently - [src](https://en.wikipedia.org/wiki/The_Singularity_Is_Nearer)
 
 ## 42Prague Core / Learning C in 2024 Blog:
+- [The C Vulnerable Functions Rabbit Hole: must I use strncpy or strlcpy?](https://cprogramming2024.wordpress.com/2025/03/09/the-c-vulnerable-functions-rabbit-hole-must-i-use-strncpy-or-strlcpy/)
 - [Summary post on the C FILE type](https://cprogramming2024.wordpress.com/2024/11/26/summary-post-on-the-c-file-type/)
 - [C’s Biggest Mistake?](https://cprogramming2024.wordpress.com/2024/01/29/cs-biggest-mistake/)
 - [String Equivalence – C vs. JavaScript [2/2] – The Facts](https://cprogramming2024.wordpress.com/2024/01/26/a-a-this-is-false-what-is-this-insanity/)

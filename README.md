@@ -38,3 +38,4 @@ _Blogging until we reach the Singularity_
   - [Codewars](https://www.codewars.com/users/orbanbalage)
   - [HackerRank](https://www.hackerrank.com/profile/orbanbalage)
   - [roadmap.sh](https://roadmap.sh/u/orbanbalage)
+  - [Project Euler](https://projecteuler.net/profile/orbanbalage.png)

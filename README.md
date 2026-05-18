@@ -1,3 +1,7 @@
+# CV & Bio: https://github.com/orbanbalage
+
+# Blog 👇
+
 _Blogging until we reach the Singularity_
 
 ## Future Prediction List
@@ -22,20 +26,3 @@ _Blogging until we reach the Singularity_
 - [Using Valgrind do debug SIGSEGV, crashes and memory issues](https://piscine42prague.wordpress.com/2023/12/18/using-valgrind-do-debug-sigsegv-crashes-and-memory-issues/)
 - [“Norminette / Moulinette is wrong!!!”](https://piscine42prague.wordpress.com/2023/12/03/norminette-moulinette-is-wrong/)
 - [Advent of Code 2023 – Day 1 – regex or not to regex?](https://piscine42prague.wordpress.com/2023/12/03/advent-of-code-2023-day-1-regex-or-not-to-regex/)
-
-## CV & Coding Challenges
-- Past Achievements / Employment History:
-  - [LinkedIn](https://www.linkedin.com/in/orbanbalage)
-  - [JSON Résumé](https://registry.jsonresume.org/orbanbalage)
-
-- Currently Learning:
-  - [codecademy](https://www.codecademy.com/profiles/orbanbalage)
-  - [execute program](https://www.executeprogram.com/)
- 
-- On hiatus:
-  - [Exercism](https://exercism.org/profiles/orbanbalage)
-  - [LeetCode](https://leetcode.com/u/orbanbalage/)
-  - [Codewars](https://www.codewars.com/users/orbanbalage)
-  - [HackerRank](https://www.hackerrank.com/profile/orbanbalage)
-  - [roadmap.sh](https://roadmap.sh/u/orbanbalage)
-  - [Project Euler](https://projecteuler.net/profile/orbanbalage.png)

@@ -1,4 +1,4 @@
-# CV & Bio: https://github.com/orbanbalage
+## 📋 CV 👉 [https://github.com/orbanbalage](https://github.com/orbanbalage)
 
 # Blog 👇
 

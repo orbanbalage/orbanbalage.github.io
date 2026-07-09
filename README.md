@@ -11,7 +11,7 @@ _Blogging until we reach the Singularity_
 ## 42Prague Core / Learning C in 2024 Blog:
 - [The C Vulnerable Functions Rabbit Hole: must I use strncpy or strlcpy?](https://cprogramming2024.wordpress.com/2025/03/09/the-c-vulnerable-functions-rabbit-hole-must-i-use-strncpy-or-strlcpy/)
 - [Summary post on the C FILE type](https://cprogramming2024.wordpress.com/2024/11/26/summary-post-on-the-c-file-type/)
-- [C’s Biggest Mistake?](https://cprogramming2024.wordpress.com/2024/01/29/cs-biggest-mistake/)
+- [C’s Biggest Mistake? (Array Decay)](https://cprogramming2024.wordpress.com/2024/01/29/cs-biggest-mistake/)
 - [String Equivalence – C vs. JavaScript [2/2] – The Facts](https://cprogramming2024.wordpress.com/2024/01/26/a-a-this-is-false-what-is-this-insanity/)
 - [String Equivalence – C vs. JavaScript [1/2] – The Philosophy](https://cprogramming2024.wordpress.com/2024/01/23/string-equivalence-c-vs-javascript-1-2-the-philosophy/)
 - [Enter 2024 – more research on C!](https://cprogramming2024.wordpress.com/2024/01/04/enter-2024-more-research-on-c/)

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>fragrantica-want2test</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css">
+</head>
+<body>
+
+<main>
+  <h1>Fragrantica Bookmarklets</h1>
+  <p>A semi-automated way to move move Perfumes from the "I Want" shelf to the "for Test" shelf in your Wardrobe.</p>
+  <p>[<a href="javascript:(function()%7BwardrobeUrl%3D%22https%3A%2F%2Fwww.fragrantica.com%2F%40orbanbalage%23wardrobe%22%2Cwindow.location.href!%3D%3DwardrobeUrl%26%26(window.location.href%3DwardrobeUrl)%2Cwindow.perfumesLinks%3Ddocument.querySelectorAll(%22%23wardrobe-shelf-want%20div.shelf-element%20a%22)%3Bconst%20iterations%3D30%3BArray.from(%7Blength%3A30%7D).forEach((r%2Ce)%3D%3E%7Bconsole.log(%60Iteration%20number%3A%20%24%7Be%2B1%7D%60)%2Copen(perfumesLinks%5Be%5D.href%2C%60_blank_%24%7Be%7D%60)%7D)%3B%7D)()">Open - Drag this Bookmarklet</a>]</p>
+  <p>[<a href="javascript:(function()%7Bfunction%20%24x(t)%7Bconst%20e%3Ddocument.evaluate(t%2Cdocument%2Cnull%2CXPathResult.ORDERED_NODE_SNAPSHOT_TYPE%2Cnull)%2Cn%3D%5B%5D%3Bfor(let%20t%3D0%3Bt%3Ce.snapshotLength%3Bt%2B%2B)n.push(e.snapshotItem(t))%3Breturn%20n%7Dconst%20wantElementXpath%3D'%2F%2Fspan%5Bcontains(text()%2C%22I%20want%20it%22)%5D%2F.'%2CforTestElementXpath%3D'%2F%2Fspan%5Bcontains(text()%2C%22For%20Test%22)%5D%2F.'%2Cstart%3DDate.now()%3Bif(!((window.wantElement%3D%24x(wantElementXpath)).length%3E0%26%26(window.forTestElement%3D%24x(forTestElementXpath)).length%3E0))throw%20new%20Error('Could%20not%20find%20%22I%20want%20it%22%20or%20%22For%20Test%22%20button')%3Bconsole.log(%22found%22%2Cwindow.wantElement.length%2Cwindow.wantElement)%2Cconsole.log(%22found%22%2Cwindow.forTestElement.length%2Cwindow.forTestElement)%2Cconsole.log(%22Clicking%20on%20'I%20want%20it'%20button%3A%20%22%2CwantElement%5B0%5D)%2CwantElement%5B0%5D.click()%2CsetTimeout(()%3D%3E%7B(window.closeButtonElement%3D%24x('%2F%2Fh4%5Bcontains(text()%2C%22Please%2C%20rate%20this%20fragrance.%22)%5D%2F..%2F..%2F..%2F%2Fbutton')).length%3E0%3F(console.log(%22found%22%2Cwindow.closeButtonElement.length%2Cwindow.closeButtonElement)%2Cconsole.log(%22Clicking%20on%20close%20button%3A%20%22%2CcloseButtonElement%5B0%5D)%2CcloseButtonElement%5B0%5D.click())%3Aconsole.log(%22Could%20not%20find%20close%20button%22)%7D%2C1e3)%3Bconst%20forTestEnabledElementXpath%3D'%2F%2Fspan%5Bcontains(text()%2C%22For%20Test%22)%5D%2F..%2F%2F*%5Bname()%3D%22svg%22%5D%2F%2F*%5Blocal-name()%3D%22path%22%5D%5B%40fill-rule%3D%22evenodd%22%5D'%3B0%3D%3D%3D(window.forTestEnabledElement%3D%24x(forTestEnabledElementXpath)).length%3F(console.log(%22Clicking%20on%20'For%20Test'%20button%3A%20%22%2CforTestElement%5B0%5D)%2CforTestElement%5B0%5D.click())%3Aconsole.log(%22'For%20Test'%20button%20is%20already%20enabled%3A%20%22%2CforTestEnabledElement%5B0%5D)%3B%7D)()">Move - Drag this Bookmarklet</a>]</p>
+  <p>The source repo can be found here: <a href="https://github.com/orbanbalage/fragrantica-want2test">https://github.com/orbanbalage/fragrantica-want2test</a></p>
+</main>
+
+<script src=""></script>
+
+</body>
+</html>
